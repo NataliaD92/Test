@@ -1,3 +1,4 @@
 To jest pierwsza linijka 2.
 To jest druga linijka 1.
 I trzecia.
+4.
