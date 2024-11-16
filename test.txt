@@ -1,3 +1,3 @@
-To jest pierwsza linijka.
-To jest druga linijka.
+To jest pierwsza linijka 2.
+To jest druga linijka 1.
 I trzecia.
